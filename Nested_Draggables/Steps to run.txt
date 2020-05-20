@@ -1,0 +1,13 @@
+1) In this React Assignment there are 3 files where code changes were made:
+- index.css
+- index.js
+- App.js ( 2 classes -> MyDraggable and App are there)
+
+2) Project dependency:
+   react, react-draggable and create-react-app modules
+
+3) To run navigate to project directory and through node command prompt exceute with 'npm start' command.
+
+4) Click on Title of the Draggable will let user navigate the component. 
+   Click on Add Parent button will launch a new draggable parent to the earlier content.
+   State of the previously rendered component will be prserved and adjust as per upcoming new parent UI component.

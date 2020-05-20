@@ -1,0 +1,9 @@
+1) In this React Assignment there are 3 files where code changes were made:
+- index.css
+- index.js
+- App.js (This is where actual business logic is written)
+
+2) Project dependency:
+   react and create-react-app module
+
+3) To run navigate to project directory and through node command prompt exceute with 'npm start' command.
